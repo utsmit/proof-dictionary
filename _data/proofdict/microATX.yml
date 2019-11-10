@@ -1,0 +1,14 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: microATX
+expected: microATX
+patterns:
+  - /microATX/i
+  - /Micro-ATX/i
+  - /Micro ATX/i
+allows: []
+specs:
+  - from: microatx
+    to: microATX
+  - from: micro-atx
+    to: microATX
+tags: [表記統一]
