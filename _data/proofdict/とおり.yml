@@ -1,0 +1,13 @@
+id: 01DSBGY0TTB025X9ZPW3MSDV2N
+description: とおり
+expected: とおり
+patterns:
+  - /()通り/
+allows:
+  - '([0-9])通り'
+specs:
+  - from: 以下の通り
+    to: 以下のとおり
+  - from: 2通り
+    to: 2通り
+tags: [表記統一]
