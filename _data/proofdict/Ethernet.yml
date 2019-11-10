@@ -1,0 +1,10 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: 'Ethernet'
+expected: Ethernet
+patterns:
+  - /ethenet/i
+allows: []
+specs:
+  - from: ethenet
+    to: Ethernet
+tags: [typo]
