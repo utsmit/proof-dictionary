@@ -1,0 +1,11 @@
+id: 01DSBG262SZ86EDHSWC2YVQS3B
+description: HDD
+expected: ディスプレイ
+patterns:
+  - モニター
+  - モニタ
+allows: []
+specs:
+  - from: モニタ
+    to: ディスプレイ
+tags: [表記統一]
