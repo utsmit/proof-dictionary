@@ -1,0 +1,11 @@
+id: 01DSBGPY558QFZQ5C1G87D8FZ8
+description: パフォーマンス
+expected: 性能
+patterns:
+  - パフォーマンス
+allows:
+  - パフォーマンステスト
+specs:
+  - from: パフォーマンステスト
+    to: パフォーマンステスト
+tags: [表記統一]
