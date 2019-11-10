@@ -1,0 +1,13 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: Extended ATX
+expected: Extended ATX
+patterns:
+  - /Extended-ATX/i
+  - /Extend-ATX/i
+  - /Extended ATX/i
+allows:
+  - E-ATX
+specs:
+  - from: extend-atx
+    to: Extended ATX
+tags: [表記統一]
