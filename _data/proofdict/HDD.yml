@@ -1,0 +1,10 @@
+id: 01DSBG262SZ86EDHSWC2YVQS3B
+description: HDD
+expected: HDD
+patterns:
+  - ハードディスク
+allows: []
+specs:
+  - from: ハードディスク
+    to: HDD
+tags: [表記統一]
