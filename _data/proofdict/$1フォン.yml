@@ -1,0 +1,10 @@
+id: 01DSBGT1B6AGKHHWEDZ50PVBW6
+description: ヘッドフォン
+expected: $1フォン
+patterns:
+  - '/([イヤ|ヘッド])ホン/'
+allows: []
+specs:
+  - from: ヘッドホン
+    to: ヘッドフォン
+tags: [表記統一]
