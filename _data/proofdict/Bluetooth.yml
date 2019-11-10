@@ -1,0 +1,11 @@
+id: 01DSBE1RJ81NGDQGEX6MZGH2VX
+description: Bluetooth
+expected: Bluetooth
+patterns:
+  - /bluetoth/i
+  - /bluetooth/i
+allows: []
+specs:
+  - from: bluetoth
+    to: Bluetooth
+tags: [typo]
