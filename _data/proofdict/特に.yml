@@ -1,0 +1,10 @@
+id: 01DSBEPTN2NJ8PXYMZ8A9SHTPB
+description: 特に
+expected: とくに
+patterns:
+  - 特に
+allows: []
+specs:
+  - from: 特に
+    to: とくに
+tags: [表記統一]
