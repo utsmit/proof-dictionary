@@ -1,0 +1,14 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: Mini-ITX
+expected: Mini-ITX
+patterns:
+  - /Mini-ITX/i
+  - /mini itx/i
+  - /miniitx/i
+allows: []
+specs:
+  - from: mini-itx
+    to: Mini-ITX
+  - from: mini itx
+    to: Mini-ITX
+tags: [表記統一]
