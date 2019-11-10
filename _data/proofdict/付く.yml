@@ -5,4 +5,4 @@ patterns:
   - /付(か|き|く|け)/
 allows: []
 specs: []
-tags: [typo]
+tags: [表記統一]
