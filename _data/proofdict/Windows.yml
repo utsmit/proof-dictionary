@@ -1,0 +1,11 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: Windows
+expected: Windows
+patterns:
+  - /windows/i
+  - /widows/i
+allows: []
+specs:
+  - from: widows
+    to: Windows
+tags: [typo]
