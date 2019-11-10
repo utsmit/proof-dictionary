@@ -1,0 +1,10 @@
+id: 01DSBGY0TTB025X9ZPW3MSDV2N
+description: なかでも
+expected: $1なか$2
+patterns:
+  - /(な|の)中()/
+  - /()中(でも|には|で|に)/
+allows:
+  - '[一-龠々]中()'
+specs: []
+tags: [表記統一]
