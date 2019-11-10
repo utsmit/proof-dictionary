@@ -1,0 +1,11 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: Mini DisplayPort
+expected: Mini DisplayPort
+patterns:
+  - /Mini DisplayPort/i
+  - /MiniDisplayPort/i
+allows: []
+specs:
+  - from: minidisplayport
+    to: Mini DisplayPort
+tags: [表記統一]
