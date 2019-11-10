@@ -1,0 +1,10 @@
+id: 01DSBHDMTH339NP8S2MVPAFYNC
+description: Gigabit Ethernet
+expected: Gigabit Ethernet
+patterns:
+  - Gigabite Ethernet
+allows: []
+specs:
+  - from: Gigabite Ethernet
+    to: Gigabit Ethernet
+tags: [typo]
