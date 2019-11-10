@@ -1,0 +1,10 @@
+id: 01DSBGRPFYQB8026R6SWNBB3JK
+description: デイジーチェーン
+expected: デイジーチェーン
+patterns:
+  - デイジーチェイン
+allows: []
+specs:
+  - from: デイジーチェイン
+    to: デイジーチェーン
+tags: [表記統一]
